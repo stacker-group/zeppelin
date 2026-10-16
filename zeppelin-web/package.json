@@ -45,7 +45,7 @@
     "babel-preset-env": "^1.7.0",
     "bower": "^1.8.0",
     "copy-webpack-plugin": "^4.0.1",
-    "css-loader": "^0.26.1",
+    "css-loader": "^7.1.5",
     "eslint": "^3.19.0",
     "eslint-config-google": "^0.7.1",
     "eslint-config-standard": "^10.2.1",
